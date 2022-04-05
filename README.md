@@ -1,6 +1,6 @@
 # Hello There
 
-I am a hobbyist programmer from Indonesia, based in Jakarta
+I am a technology enthusiast from Indonesia, based in Jakarta
 
 # About Me
 ## How to reach me:
