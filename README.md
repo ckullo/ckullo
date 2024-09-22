@@ -6,10 +6,7 @@ I am a technology enthusiast from Indonesia, based in Jakarta
 ## How to reach me:
 ### E-mail
 > [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:ckullo@gmail.com)
-> [![Outlook Badge](https://img.shields.io/badge/-live-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=ffffff)](mailto:bayu.jayasukma@live.com)
 
-### Direct Messenger
-> [![Whatsapp Badge](https://img.shields.io/badge/-whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](mailto:bayu.jayasukma@live.com)
 ## Technology Stack:
 
 > [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
@@ -22,7 +19,7 @@ I am a technology enthusiast from Indonesia, based in Jakarta
 > [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 > 
 # Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=ckullo&show_icons=true&theme=dracula" alt="ckullo" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ckullo&show_icons=false&theme=dracula" alt="ckullo" /></p>
 <!--
 **ckullo/ckullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
