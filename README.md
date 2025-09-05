@@ -1,38 +1,53 @@
-# Hello There
+# 👋 Hi there, I'm **ckullo**!
 
-I am a technology enthusiast from Indonesia, based in Jakarta
+Welcome to my GitHub profile! I'm passionate about building impactful software and collaborating with developers worldwide. Here, you'll find a showcase of my projects, interests, and contributions to the open-source community.
 
-# About Me
-## How to reach me:
-### E-mail
-> [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:ckullo@gmail.com)
+## 💼 Profession
 
-## Technology Stack:
+**Cloud Product Specialist**  
+_PT. Datacomm Diangraha_
 
-> [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-> [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff)](https://www.mysql.com/)
-> [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+## 🚀 Featured Projects
 
-> [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
-> [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-> [![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
-> [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-> 
-# Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=ckullo&show_icons=false&theme=dracula" alt="ckullo" /></p>
-<!--
-**ckullo/ckullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [gemini-chatbot-api](https://github.com/ckullo/gemini-chatbot-api): Gemini API implementation for conversational AI.
+- [author-web](https://github.com/ckullo/author-web): Website template for author / prints industry.
+- [sgf](https://github.com/ckullo/sgf): Website template for company profile.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/visual%20basic%206.0-008080?style=for-the-badge" alt="Visual Basic 6.0"/>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/mssql-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL"/>
+</p>
 
+## 💡 What I Do
 
+- Experimenting with AI, web technologies, and automation
+- Solving real-world problems with code
+
+## 🌱 Latest Activity
+
+- Always learning and exploring new tech
+- Connecting with like-minded developers
+
+## 📊 GitHub Stats
+
+![ckullo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckullo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckullo&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+<a href="https://www.linkedin.com/in/bayu-jayasukma/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+---
